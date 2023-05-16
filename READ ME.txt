@@ -1,0 +1,8 @@
+The following files included in this repository should be put in the following locations inside Automatic1111:
+
+sd_models:  E:\Automatic1111\stable-diffusion-webui\modules
+sd_models_config:  E:\Automatic1111\stable-diffusion-webui\modules
+sd_vae:  E:\Automatic1111\stable-diffusion-webui\modules
+
+location configs: E:\Automatic1111\stable-diffusion-webui\repositories\stable-diffusion-stability-ai\configs
+location models: E:\Automatic1111\stable-diffusion-webui\models
